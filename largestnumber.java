@@ -8,7 +8,7 @@ public class largestnumber {
 
         System.out.println("Enter the second number :");
         int b = sc.nextInt();
-
+// 
         System.out.println("Enter the third number :");
         int c = sc.nextInt();
 
